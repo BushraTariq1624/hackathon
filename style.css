@@ -182,9 +182,23 @@ i{
 }
 .news p{
     color: rgba(111, 66, 193, 1);
+    padding-top: 10px;
 }
 .news h3{
     color: rgba(111, 66, 193, 1);
+}
+.news button{
+    transform: translate(0%, -50%);
+    background-color: rgba(111, 66, 193, 1);
+    color: white;
+    border: none;
+}
+.com{
+    color: #989898;
+}
+.com img{
+    height: 20px;
+    width: 20px;
 }
 .amet{
     color: #989898;
